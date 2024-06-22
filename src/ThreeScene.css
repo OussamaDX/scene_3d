@@ -1,0 +1,10 @@
+.three-scene-container 
+{
+    background-color: #f0f0f0; /* Optional background color (fallback) */
+    padding: 20px;
+    border: 1px solid #ddd;
+    background-image: url('/Users/OUShassan/Desktop/new_OUSSAMA/Camera/20230520_213030_1.jpg'); /* Replace with actual path */
+    background-size: cover; /* Resize image to fill container */
+    background-position: center; /* Center the image */
+  }
+  

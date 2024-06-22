@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+1 first i should be set a backgroung  on css 
+
+2 install a tabel gltf and export it to thrre js 
+
+2.1 okey this tapes is for table 3d first i should the camera to look the top angke of the model
+
+3 install  a paddle blender again and and fix the camera angle and also the ball 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
