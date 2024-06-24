@@ -2,6 +2,8 @@ import React, { useEffect, useRef } from 'react';
 import * as THREE from 'three';
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
 
+// import { GLTFLoader } from 'three-stdlib'; // if 3 line dosent work
+
 const ThreeScene: React.FC = () => {
   const mountRef = useRef<HTMLDivElement>(null);
 
